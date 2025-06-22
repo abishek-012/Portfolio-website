@@ -6,7 +6,7 @@ const Projects = () => {
       title: "E-Library",
       description:
         "A comprehensive digital library platform with user authentication, book catalog management, search functionality, and borrowing system. Built with modern web technologies.",
-      image: "/public/library.png",
+      image: "/library.png",
       technologies: ["React", "Node.js", "MongoDB", "Express"],
       github: "https://github.com/abishek-012/cc7165517",
       live: "https://cc7165517.vercel.app/"
@@ -22,7 +22,7 @@ const Projects = () => {
       title: "Underwater ROV (Ongoing)",
       description:
         "Designed a low-cost underwater ROV for underwater exploration and monitoring. Integrated motor control, waterproof casing, and tethered control system.",
-      image: "/public/rov.png",
+      image: "/rov.png",
       technologies: ["Embedded Systems", "Ping Echosounder", "Mechanical Design"],
     }
   ];
