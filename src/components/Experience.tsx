@@ -16,7 +16,7 @@ const Experience = () => {
     ]
   },
   {
-    title: "Full-Stack Intern",
+    title: "Full-Stack Developement Intern",
     company: "CopterCode",
     location: "Chennai, India",
     period: "Summer 2025",
@@ -27,8 +27,33 @@ const Experience = () => {
       "Integrated Express APIs with MongoDB to enable CRUD operations and user authentication",
       "Collaborated in a team environment, participating in code reviews and project planning"
     ]
+  },
+  {
+    title: "Telecommunication Intern",
+    company: "BSNL-RGMMTC, IITM",
+    location: "Chennai, India",
+    period: "June 2025",
+    description:
+      "Gained practical exposure to telecom infrastructure, switching systems, and optical fiber communication.",
+    achievements: [
+      "Studied the operation of modern telecom switching systems",
+      "Explored optical fiber communication and real-world network setups"
+    ]
+  },
+  {
+    title: "Systems Intern",
+    company: "Vikra Ocean Tech",
+    location: "Chennai, India",
+    period: "July 2025",
+    description:
+      "Worked on control systems for underwater Remotely Operated Vehicles (ROVs), enhancing stability and responsiveness.",
+    achievements: [
+      "Designed control systems to optimize underwater ROV performance",
+      "Integrated and calibrated thrusters for precise movement and control"
+    ]
   }
 ];
+
 
 
   return (
